@@ -1,0 +1,62 @@
+LABORATORY REPORT
+
+Patient: Jane Smith
+DOB: 05/22/1975
+Collection Date: 03/14/2024
+Accession #: LAB123456
+
+TEST RESULTS:
+
+HEMATOLOGY
+WBC: 8.2 x 10^9/L
+RBC: 4.5 x 10^12/L
+HGB: 13.8 g/dL
+HCT: 41%
+PLT: 220 x 10^9/L
+
+CHEMISTRY
+GLU: 92 mg/dL
+BUN: 18 mg/dL
+CREAT: 0.8 mg/dL
+NA: 138 mEq/L
+K: 4.2 mEq/L
+CL: 102 mEq/L
+CO2: 26 mEq/L
+
+LIVER FUNCTION
+ALT: 25 U/L
+AST: 22 U/L
+ALP: 85 U/L
+TBIL: 0.8 mg/dL
+DBIL: 0.2 mg/dL
+
+THYROID
+TSH: 2.1 mIU/L
+FT4: 1.2 ng/dL
+
+Reference Ranges:
+WBC: 4.5-11.0 x 10^9/L
+RBC: 4.0-5.5 x 10^12/L
+HGB: 12.0-16.0 g/dL
+HCT: 36-46%
+PLT: 150-450 x 10^9/L
+GLU: 70-99 mg/dL
+BUN: 7-20 mg/dL
+CREAT: 0.6-1.2 mg/dL
+NA: 135-145 mEq/L
+K: 3.5-5.0 mEq/L
+CL: 98-107 mEq/L
+CO2: 22-29 mEq/L
+ALT: 0-40 U/L
+AST: 0-40 U/L
+ALP: 40-130 U/L
+TBIL: 0.2-1.2 mg/dL
+DBIL: 0.0-0.3 mg/dL
+TSH: 0.4-4.0 mIU/L
+FT4: 0.8-1.8 ng/dL
+
+Comments: All results are within normal reference ranges.
+
+Technologist: M. Johnson
+Reviewed by: Dr. R. Williams
+Date: 03/14/2024 

@@ -1,0 +1,343 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+    line-height: 1.8;
+}
+
+/* Global text sizing */
+html {
+    font-size: 16px;
+}
+
+/* Main container */
+.main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Sidebar styling */
+.sidebar {
+    padding: 2rem;
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+    font-size: 1.1rem;
+}
+
+.sidebar .nav-link {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.25rem;
+    margin: 0.75rem 0;
+    border-radius: 12px;
+    color: #FFFFFF;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.sidebar .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+    transition: all 0.3s ease;
+}
+
+.sidebar .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.sidebar .nav-link svg {
+    margin-right: 1rem;
+    font-size: 1.4rem;
+}
+
+/* Card Styles */
+.card {
+    background-color: #2D2D2D;
+    border-radius: 16px;
+    padding: 30px;
+    margin: 25px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    color: #FFFFFF;
+    font-size: 28px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+/* Table Styles */
+.stDataFrame {
+    width: 100% !important;
+    margin: 25px 0;
+    background-color: #2D2D2D !important;
+}
+
+.stDataFrame table {
+    width: 100% !important;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #2D2D2D !important;
+}
+
+.stDataFrame th {
+    background-color: #1E1E1E !important;
+    color: #FFFFFF !important;
+    padding: 20px !important;
+    font-size: 18px !important;
+    font-weight: 600;
+    text-align: left;
+}
+
+.stDataFrame td {
+    padding: 16px 20px !important;
+    font-size: 16px !important;
+    border-bottom: 1px solid #3D3D3D;
+    color: #FFFFFF !important;
+    background-color: #2D2D2D !important;
+}
+
+.stDataFrame tr:hover {
+    background-color: #3D3D3D !important;
+}
+
+/* Summary Box */
+.summary-box {
+    background-color: #2D2D2D;
+    border-left: 6px solid #0066FF;
+    padding: 25px;
+    margin: 25px 0;
+    font-size: 18px;
+    line-height: 1.8;
+    border-radius: 12px;
+    color: #FFFFFF;
+}
+
+.summary-box h3 {
+    color: #FFFFFF;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.summary-box p {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+/* Button Styles */
+.stButton > button {
+    background-color: #0066FF;
+    color: #FFFFFF;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #0052CC;
+    transform: translateY(-2px);
+}
+
+/* File Uploader */
+.stFileUploader {
+    margin: 25px 0;
+}
+
+.stFileUploader > div {
+    background-color: #2D2D2D;
+    border: 2px dashed #0066FF;
+    border-radius: 12px;
+    padding: 25px;
+    color: #FFFFFF;
+}
+
+/* Sidebar */
+.sidebar .sidebar-content {
+    background-color: #2c3e50;
+    color: white;
+}
+
+.sidebar .sidebar-content .sidebar-section {
+    padding: 20px;
+}
+
+/* Chat Messages */
+.chat-message {
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.user-message {
+    background-color: #e3f2fd;
+    margin-left: 20%;
+}
+
+.assistant-message {
+    background-color: #f5f5f5;
+    margin-right: 20%;
+}
+
+/* Lab Results Visualization */
+.plot-container {
+    background-color: #2D2D2D;
+    padding: 25px;
+    border-radius: 12px;
+    margin: 25px 0;
+}
+
+.plot-container h3 {
+    color: #FFFFFF;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Custom Streamlit Elements */
+.stPlotlyChart {
+    background-color: #2D2D2D !important;
+}
+
+.element-container {
+    color: #FFFFFF !important;
+}
+
+/* Alert Messages */
+.stAlert {
+    background-color: #2D2D2D !important;
+    color: #FFFFFF !important;
+    padding: 20px;
+    border-radius: 12px;
+    margin: 15px 0;
+    font-size: 16px;
+}
+
+/* Success Messages */
+.stSuccess {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+/* Warning Messages */
+.stWarning {
+    background-color: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffeeba;
+}
+
+/* Error Messages */
+.stError {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+/* Custom header */
+.custom-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2.5rem;
+}
+
+.custom-header img {
+    width: 64px;
+    height: 64px;
+    margin-right: 1.5rem;
+}
+
+.custom-header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+/* Alert/info boxes */
+.info-box {
+    background-color: rgba(0, 102, 255, 0.1);
+    border-left: 6px solid #0066FF;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* Progress/loading indicators */
+.loading-spinner {
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.2rem;
+}
+
+/* Main content text styling */
+.main-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.main-content h2 {
+    font-size: 2rem;
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+}
+
+.main-content p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+/* Form elements */
+.stSelectbox {
+    font-size: 1.1rem;
+}
+
+.stTextInput > div > div > input {
+    font-size: 1.1rem;
+    padding: 0.75rem 1rem;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab"] {
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+}
+
+/* Plotly chart styling */
+.js-plotly-plot {
+    font-size: 1.1rem;
+}
+
+.js-plotly-plot .plotly .main-svg {
+    font-size: 1.1rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    html {
+        font-size: 14px;
+    }
+    
+    .main {
+        padding: 1rem;
+    }
+    
+    .sidebar {
+        padding: 1rem;
+    }
+    
+    .card {
+        padding: 1.5rem;
+    }
+} 

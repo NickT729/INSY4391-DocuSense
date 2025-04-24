@@ -1,0 +1,35 @@
+RADIOLOGY REPORT
+
+Patient Name: Robert Johnson
+MRN: 98765432
+DOB: 08/12/1965
+Exam Date: 03/13/2024
+Accession #: RAD789012
+
+EXAM: CHEST X-RAY (2 VIEWS)
+
+CLINICAL HISTORY:
+Patient presents with persistent cough and mild shortness of breath for 2 weeks.
+
+TECHNIQUE:
+PA and lateral views of the chest were obtained.
+
+FINDINGS:
+Lungs: Clear and well-expanded bilaterally. No focal consolidation, infiltrate, or mass identified.
+Heart: Normal in size and configuration. No pericardial effusion.
+Mediastinum: Normal in width. No mediastinal mass or lymphadenopathy.
+Pleura: No pleural effusion or pneumothorax.
+Bones: No acute fracture or destructive bony lesion identified.
+Soft Tissues: Unremarkable.
+
+IMPRESSION:
+1. Normal chest x-ray
+2. No acute cardiopulmonary process identified
+
+RECOMMENDATIONS:
+1. Clinical correlation recommended
+2. Consider follow-up if symptoms persist
+
+Radiologist: Dr. A. Patel, MD
+Date: 03/13/2024
+Time: 14:30 

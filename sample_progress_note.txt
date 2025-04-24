@@ -1,0 +1,51 @@
+PROGRESS NOTE
+
+Patient: Maria Garcia
+MRN: 45678901
+DOB: 11/03/1988
+Date: 03/14/2024
+Time: 10:15 AM
+
+SUBJECTIVE:
+Patient returns for follow-up of type 2 diabetes mellitus. Reports good compliance with medication regimen. Denies any episodes of hypoglycemia. Reports improved energy levels and better sleep. No new complaints.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 118/76 mmHg
+- HR: 68 bpm
+- RR: 16/min
+- Temp: 98.2°F
+- Weight: 165 lbs (↓2 lbs from last visit)
+- Height: 5'6"
+- BMI: 26.6
+
+Physical Exam:
+General: Well-appearing, no acute distress
+HEENT: Unremarkable
+Cardiovascular: Regular rate and rhythm, no murmurs
+Respiratory: Clear to auscultation
+Abdomen: Soft, non-tender, no masses
+Extremities: No edema, pulses 2+
+
+Recent Labs (03/01/2024):
+- A1C: 6.2% (↓ from 6.8%)
+- Fasting Glucose: 98 mg/dL
+- Creatinine: 0.9 mg/dL
+- eGFR: >60 mL/min/1.73m²
+
+ASSESSMENT:
+1. Type 2 Diabetes Mellitus - Well controlled
+2. Hypertension - Well controlled
+3. Obesity - Improved BMI
+
+PLAN:
+1. Continue current medication regimen:
+   - Metformin 1000mg BID
+   - Lisinopril 10mg daily
+2. Continue current diet and exercise plan
+3. Follow-up in 3 months
+4. Repeat A1C and basic metabolic panel at next visit
+
+Provider: Dr. Emily Chen, MD
+Date: 03/14/2024
+Time: 10:30 AM 
